@@ -1,0 +1,109 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+ *{
+  margin: 0;
+   padding: 0;
+    font-family: 'Poppins', sans-serif;
+     }
+  body{
+   background: #dcdcdc;
+    height: 92vh;
+     margin: 0;
+      } 
+  a{ color: #fff;
+   text-decoration: none;
+    transition: 0.3; 
+}
+   a:hover{
+    opacity: 0.7;
+     }
+    .logo{ font-size: 24px;
+     text-transform: 4px; 
+     letter-spacing: 4px; 
+ } 
+    nav{ display: flex; justify-content:
+     space-around;
+      align-items: center;
+       font-family: 'Poppins',sans-serif;
+        background-color: #87CEFA;
+         height: 8vh;
+          }
+     main{ background-size: cover;
+     height: 92vh;
+      }
+      .nav-list{ list-style: none; 
+      	display: flex;
+      	 }
+      	 .nav-list li{
+      	  letter-spacing: 3px;
+      	   margin-left: 32px;
+      	    } 
+      	    .produtos{
+      	     display: flex; 
+      	     align-items: center;
+      	      height: 750px;
+      	       width: 1000px;
+      	        flex-wrap: wrap;
+      	         justify-content: space-evenly;
+      	          } 
+      	          .produto1{
+      	           position: relative; 
+      	           padding-right: 10px;
+      	            background: #87CEFA;
+      	             color: white;
+      	              padding: 5px 10px;
+      	               width: 200px;
+      	                height: 250px;
+      	                 } 
+      	                 .produto2{
+      	                  background:#87CEFA;
+      	                   color: white; padding: 5px 10px; 
+      	                   width: 200px; 
+      	                   height: 300px;
+      	                    } 
+      	                    .produto3{
+      	                     background: #87CEFA; 
+      	                     color: white;
+      	                      padding: 5px 10px;
+      	                       width: 200px; 
+      	                       height: 300px;
+      	                        } 
+      	                        .btn3{
+      	                         background-color:#000000;
+      	                          width: 120px;
+      	                           height:20px;
+      	                            border:2px rgb(255, 255, 255); 
+                                     border-radius: 15px;
+      	                             } 
+      	                             .produto4{ background: #87CEFA;
+      	                              color: white;
+      	                               padding: 5px 10px; width: 200px;
+      	                                height: 300px;
+      	                                 } 
+      	                                 .produto5{
+      	                                  background: #87CEFA; 
+      	                                  color: white; 
+      	                                  padding: 5px 10px;
+      	                                   width: 200px; 
+      	                                   height: 300px;
+      	                                    }
+      	                                     .produto6{
+      	                                      background: #87CEFA;
+      	                                       color: white;
+      	                                        padding: 5px 10px;
+      	                                         width: 200px;
+      	                                          height: 300px;
+      	                                           } 
+      	                                           .produto7{
+      	                                            background:#87CEFA;
+      	                                             color: white;
+      	                                              padding: 5px 10px;
+      	                                               width: 200px; 
+      	                                               height: 300px; 
+      	                                           } 
+      	                                           .produto8{ 
+      	                                           	background: #87CEFA;
+      	                                           	 color: white;
+      	                                           	  padding: 5px 10px;
+      	                                           	   width: 200px;
+      	                                           	    height: 300px;
+      	                                           	     }

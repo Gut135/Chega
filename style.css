@@ -1,0 +1,367 @@
+    @import url('https://fonts.googleapis.com/css2? family= Poppins:wght@300 & display=swap');
+     *{
+        margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+         }
+      body{
+    background: #dcdcdc;
+    height: 92vh;
+    margin: 0;
+          } 
+
+    }
+    a:hover{
+    opacity: 0.7;
+         }
+    .logo{ font-size: 24px;
+    text-transform: 4px; 
+    letter-spacing: 4px; 
+     } 
+    nav{ display: flex; 
+    justify-content:
+    space-around;
+    align-items: center;
+    font-family: 'Poppins',sans-serif;
+    background-color: #87CEEB;
+    height: 8vh;
+    }
+    main{ background-size: cover;
+
+    }
+    .nav-list{ list-style: none; 
+     display: flex;
+    }
+    .nav-list li{
+    letter-spacing: 3px;
+    margin-left: 32px;
+    } 
+    .produtos{
+    display: flex; 
+    align-items: center;
+    height: 750px;
+    width: 1000px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    } 
+    .produto1{
+    position: relative; 
+      padding-right: 10px;
+    background: #87CEEB;
+    color: white;
+    padding: 5px 10px;
+    width: 200px;
+    height: 280px;
+    border-radius: 25px;
+    } 
+    .produto2{
+    background:#87CEEB;
+    color: white; padding: 5px 10px; 
+    width: 200px; 
+    height: 280px;
+    border-radius: 25px;
+    } 
+    .produto3{
+    background: #87CEEB; 
+    color: white;
+    padding: 5px 10px;
+    width: 200px; 
+    height: 280px;
+    border-radius: 25px;
+    } 
+    .btn3{
+    background-color:#ffffff;
+    width: 120px;
+    height:20px;
+    border-radius: 5px;
+    }
+    .produto4{
+     background: #87CEEB;
+    color: white;
+    padding: 5px 10px;
+     width: 200px;
+    height: 280px;
+    border-radius: 25px;
+    } 
+    .produto5{
+    background: #87CEEB; 
+    color: white; 
+    padding: 5px 10px;
+    width: 200px; 
+    height: 280px;
+    border-radius: 25px;
+    }
+    .produto6{
+    background: #87CEEB;
+    color: white;
+    padding: 5px 10px;
+    width: 200px;
+     height: 280px;
+    border-radius: 25px;
+     } 
+     .produto7{
+     background:#87CEEB;
+     color: white;
+     padding: 5px 10px;
+      width: 200px; 
+       height: 280px; 
+     border-radius: 25px;
+     } 
+     .produto8{ 
+    background: #87CEEB;
+    color: white;
+    padding: 5px 10px;
+    width: 200px;
+    height: 280px;
+    border-radius: 25px;
+}
+.camisa1{
+ background: #87CEEB;
+ align-items: center;
+ padding-top: 100px;
+ height:300px;
+ width: 300px;
+ border-radius: 15px;
+
+
+
+}
+
+
+
+.carro1{
+    background: #ffffff;
+    width: 180px;
+    height:200px;
+    text-decoration: #000000;
+    padding-top: 20px;
+
+
+}
+a{
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+  
+
+}
+.carros{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    height: 600px;
+    width: 800px;
+    flex-wrap: wrap ;
+    margin: 20px auto;
+}
+.carro2{
+    background: #ffffff;
+    width: 180px;
+    height:200px;
+    text-decoration: #000000;
+    padding-top: 20px;
+
+
+}
+.carro3{
+    background: #ffffff;
+    width: 180px;
+    height:200px;
+    text-decoration: #000000;
+    padding-top: 20px;
+
+
+}
+.carro4{
+    background: #ffffff;
+    width: 180px;
+    height:200px;
+    text-decoration: #000000;
+    padding-top: 20px;
+
+
+}
+.carro5{
+    background: #ffffff;
+    width: 180px;
+    height:200px;
+    text-decoration: #000000;
+    padding-top: 20px;
+}
+.carro6{
+    background: #ffffff;
+    width: 180px;
+    height:200px;
+    text-decoration: #000000;
+    padding-top: 20px;
+}
+.carro7{
+    background: #ffffff;
+    width: 180px;
+    height:200px;
+    text-decoration: #000000;
+    padding-top: 20px;
+}
+.carro8{
+    background: #ffffff;
+    width: 180px;
+    height:200px;
+    text-decoration: #000000;
+    padding-top: 20px;
+}
+ .p{
+    display: flex; 
+    align-items: center;
+    height: 750px;
+    width: 1200px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin:200px;
+    } 
+     .p1{ 
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius:25px;
+    }
+     .p2{ 
+   
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p3{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p4{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p5{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p6{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p7{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p8{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p9{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p10{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p11{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p12{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p13{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p14{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p15{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+    p a{
+      width: 100px;
+    }
+    .camisa1{
+     display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    height: 350px;
+    width: 400px;
+    flex-wrap: wrap ;
+    margin: 20px auto;
+    margin-top: 50px;
+    }
+    .tamanhos{
+        align-items: baseline;
+        justify-content: space-around;
+        display: flex;
+        text-decoration: none;
+        list-style: none;
+        width: 150px;
+    }
+
+
+
+    }
+      
+
+

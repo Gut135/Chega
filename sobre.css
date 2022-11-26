@@ -1,0 +1,176 @@
+    @import url('https://fonts.googleapis.com/css2? family= Poppins:wght@300 & display=swap');
+     *{
+        margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+         }
+      body{
+    background: #dcdcdc;
+    height: 92vh;
+    margin: 0;
+          } 
+
+    }
+    a:hover{
+    opacity: 0.7;
+    text-decoration: none;
+         }
+    .logo{ font-size: 24px;
+    text-transform: 4px; 
+    letter-spacing: 4px; 
+     } 
+    nav{ display: flex; 
+    justify-content:
+    space-around;
+    align-items: center;
+    font-family: 'Poppins',sans-serif;
+    background-color: #87CEEB;
+    height: 8vh;
+    }
+ 
+
+    }
+    .nav-list{ list-style: none; 
+     display: flex;
+    }
+    .nav-list li{
+    letter-spacing: 3px;
+    margin-left: 32px;
+    } 
+
+
+
+ .p{
+    display: flex; 
+    align-items: center;
+    height: 750px;
+    width: 1200px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin:200px;
+    } 
+     .p1{ 
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius:25px;
+    }
+     .p2{ 
+   
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p3{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p4{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p5{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p6{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p7{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p8{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p9{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p10{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p11{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p12{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p13{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p14{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+         .p15{ 
+
+
+    padding: 5px 10px;
+    width: 200px;
+    height: 300px;
+    border-radius: 25px;
+    }
+  
+
+
+
+
+
